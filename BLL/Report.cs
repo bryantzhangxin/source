@@ -15,6 +15,7 @@ namespace Maticsoft.BLL
 		{}
 		#region  BasicMethod
 
+
 		/// <summary>
 		/// 增加一条数据
 		/// </summary>
